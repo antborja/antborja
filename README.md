@@ -1,6 +1,7 @@
 ### Hi, my name is Anthony Borja!  
 
 Coming soon: Graphing Calculator Showcase
+
 Currently working on: SQL-Type Database
 
 <h3 align="left">Languages and Tools:</h3>
