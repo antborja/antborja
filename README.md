@@ -1,24 +1,22 @@
-### Hi, my name is Anthony Borja!  
+<h2>
+  <img src = "https://github.com/antborja/antborja/assets/112919376/4ff65cb8-ad76-4317-b0d5-d9dc2fc326bd" width = "40"> Kumusta (Hello), my name is Anthony Borja! <img src="https://github.com/antborja/antborja/assets/112919376/3ed4508b-cd26-4aac-92a3-5781814edc86" width="40">
+</h2>
 
-Coming soon: Graphing Calculator Showcase
+<em> Computer Engineer at <strong>Pasadena City College</strong> </em> 
 
-Currently working on: SQL-Type Database
+<h3> About Me </h3>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> </p>
+```javascript
+const anthony = {
+    pronouns: "He" | "Him",
+    code: [CPP, LATEX, Java, MATLAB],
+    hobbies: ["jazz trumpet", "jazz guitar", "film photography", "reading", "saving gotham"],
 
+    projects: {
+        cpp: ["SQL Database System", "SFML Graphing Calculator"]
+    },
 
-<!--
-**antborja/antborja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    goalOfTheWeek: "Finish SQL Database Project"
+};
+```
+  
