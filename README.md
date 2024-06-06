@@ -10,13 +10,15 @@
 const anthony = {
     pronouns: "He" | "Him",
     code: [CPP, LATEX, Java, MATLAB],
-    hobbies: ["jazz trumpet", "jazz guitar", "film photography", "reading", "saving gotham"],
-
     projects: {
         cpp: ["SQL Database System", "SFML Graphing Calculator"]
     },
+    goalOfTheWeek: "Finish SQL Database Project"l,
 
-    goalOfTheWeek: "Finish SQL Database Project"
+    hobbies: ["jazz trumpet", "jazz guitar", "film photography", "reading", "saving gotham"]
 };
 ```
-  
+
+<h2>Project Showcase</h2>
+
+<h3></h3>
