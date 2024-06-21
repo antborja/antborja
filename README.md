@@ -24,6 +24,121 @@ const anthony = {
 <p>Below are quick demos of different projects I have made previously. These projects
 may have public repositories that will be linked within the project description.</p>
 
+Contents
+===========
+
+* [SQL Database Project (C++)](https://github.com/antborja/antborja/edit/main/README.md#sql-database-project)
+* [SFML Graphing Calculator Project (C++)](https://github.com/antborja/antborja/edit/main/README.md#sfml-graphing-calculator)
+
+<!---
+SQL PROJECT
+-->
+<h2>SQL Database Project</h2>
+<em>Written in C++ by Anthony Borja</em>
+<br>
+
+### About
+---
+The SQL Data base project handles tables of information that can be accessed and stored through the application.
+All files and information are stored using binary files and text files and can later be accessed anytime.
+
+### Usage
+---
+### Entering a Command
+<img src="https://github.com/antborja/antborja/assets/112919376/8d648222-3a42-43bb-9afc-6df46a7b539d" width="400">
+
+Commands are entered through the terminal, following the `>` character.
+When the program starts, the user can view the tables currently stored in the database (explained later).
+
+### Making a Table
+To create a table, use the `make` command by typing
+
+```terminal
+make table [table name] fields [field names separated by commas]
+```
+
+Here's an example in which I make a table called "students" with the field columns lname (last name), fname (first name), age and major:
+![make_students](https://github.com/antborja/antborja/assets/112919376/5db93128-34f4-4a42-a7d1-8e9dcc0efea6)
+
+To create multiple tables, simply run the `make` command again with a different table name.
+
+Another example in which I create a table called "employees":
+![make_table](https://github.com/antborja/antborja/assets/112919376/500538af-5c09-4a9d-bb14-b31f66d9a90c)
+
+
+### Saving a Table
+Each table is saved automatically after creation. When the program is opened, the tables that are stored will be displayed at the top, followed by the name of their
+respective binary file:
+
+![saving_files](https://github.com/antborja/antborja/assets/112919376/e2848b79-66ef-4941-9575-ed0c67dd4bf1)
+
+### Inserting Into a Table
+To create a table, use the `insert into` command by typing
+
+```terminal
+insert into [table name] values [values to insert]
+```
+The values inserted, *must* be entered in the same order as the field columns of the table. 
+For example, if a table has the fields `lname`, `fname`. and `age`, inserting must go as follows:
+
+```terminal
+insert into [table name] values [lname], [fname], [age]
+```
+
+Here is an example in which I insert a record into `students.bin`:
+
+![insert_peter](https://github.com/antborja/antborja/assets/112919376/3deb4772-21b1-43e6-b9f4-128ec3cdbd76)
+
+#### Inserting Values with Spaces
+To insert a single value made of multiple words, use quotations to enclose the value:
+
+```terminal
+insert into [table name] values "Value 1", "Value 2", "Value 3"
+```
+
+Here is an example in which I insert into `employees.bin` with "J. Jonah" as a single value:
+
+![insert_quotes](https://github.com/antborja/antborja/assets/112919376/f44d49ed-bc2a-4018-9565-7260dbe58e0e)
+
+### Selecting Values from a Table
+To initiate a select, use the `select` command followed by the fields you wish to select. If you wish to 
+select all fields, use the `*` operator.
+
+```terminal
+select [field name] from [table name]
+select * from [table name]
+```
+
+![select fields](https://github.com/antborja/antborja/assets/112919376/d9b1bb6e-69cb-4cdf-90ad-87e43e0734bc)
+![select all](https://github.com/antborja/antborja/assets/112919376/e6a56f37-ba0d-46c5-a394-f2cdebdbdfc7)
+
+To apply a condition, begin your condition using the `where` command. Conditions follow 
+the general form `field name` `operator` `filter` in which field name is the field name of a table,
+operator is a relational or logical operator (explained in [Operators](https://github.com/antborja/antborja/edit/main/README.md#operators)).
+
+```terminal
+select * from [table name] where [condition]
+```
+
+![select with conditions](https://github.com/antborja/antborja/assets/112919376/62ce5c3d-264a-4952-b784-92efc63af701)
+
+#### Operators
+Conditions filter through records using the following operators:
+```terminal
+=        Must equal right hand side
+<        Must be less than right hand side
+>        Must be greater than right hand side
+<=       Must be less than or equal to right hand side
+>=       Must be greater than or equal to right hand side
+and      Must follow both left hand and right hand conditions
+or       Follows either left hand or right hand conditions
+(        Encloses a condition
+)        Encloses a condition
+```
+
+
+
+
 <h2>SFML Graphing Calculator</h2>
 <em>Written in C++ by Anthony Borja</em>
 <br>
