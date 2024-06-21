@@ -27,8 +27,8 @@ may have public repositories that will be linked within the project description.
 Contents
 ===========
 
-* [SQL Database Project (C++)](https://github.com/antborja/antborja/edit/main/README.md#sql-database-project)
-* [SFML Graphing Calculator Project (C++)](https://github.com/antborja/antborja/edit/main/README.md#sfml-graphing-calculator)
+* [SQL Database Project (C++)](https://github.com/antborja/antborja/blob/main/README.md#sql-database-project)
+* [SFML Graphing Calculator Project (C++)](https://github.com/antborja/antborja/blob/main/README.md#sfml-graphing-calculator)
 
 <!---
 SQL PROJECT
@@ -114,7 +114,7 @@ select * from [table name]
 
 To apply a condition, begin your condition using the `where` command. Conditions follow 
 the general form `field name` `operator` `filter` in which field name is the field name of a table,
-operator is a relational or logical operator (explained in [Operators](https://github.com/antborja/antborja/edit/main/README.md#operators)).
+operator is a relational or logical operator (explained in [Operators](https://github.com/antborja/antborja/blob/main/README.md#operators)).
 
 ```terminal
 select * from [table name] where [condition]
