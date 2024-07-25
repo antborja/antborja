@@ -27,8 +27,8 @@ may have public repositories that will be linked within the project description.
 Contents
 ===========
 
-* [SQL Database Project (C++)](https://github.com/antborja/antborja/blob/main/README.md#sql-database-project)
-* [SFML Graphing Calculator Project (C++)](https://github.com/antborja/antborja/blob/main/README.md#sfml-graphing-calculator)
+* [SQL Database Project (C++)](https://github.com/antborja#sql-database-project)
+* [SFML Graphing Calculator Project (C++)](https://github.com/antborja#sfml-graphing-calculator)
 
 <!---
 SQL PROJECT
