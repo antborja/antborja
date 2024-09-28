@@ -1,5 +1,5 @@
 <h1>
-  <img src = "https://github.com/antborja/antborja/assets/112919376/4ff65cb8-ad76-4317-b0d5-d9dc2fc326bd" width = "40"> ᜃᜓᜋᜓᜐ᜔ᜆ (Hello), my name is Anthony Borja! <img src="https://github.com/antborja/antborja/assets/112919376/3ed4508b-cd26-4aac-92a3-5781814edc86" width="40">
+  <img src = "https://github.com/antborja/antborja/assets/112919376/4ff65cb8-ad76-4317-b0d5-d9dc2fc326bd" width = "40"> Kumusta (Hello), my name is Anthony Borja! <img src="https://github.com/antborja/antborja/assets/112919376/3ed4508b-cd26-4aac-92a3-5781814edc86" width="40">
 </h1>
 
 <em> Electrical Engineering student at <strong>Pasadena City College</strong> </em> 
