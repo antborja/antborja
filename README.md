@@ -8,6 +8,7 @@
 
 ```javascript
 const anthony = {
+    nickname: Alekai
     pronouns: "He" | "Him",
     code: [CPP, LATEX, Java, MATLAB],
     projects: {
