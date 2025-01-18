@@ -10,7 +10,7 @@
 const anthony = {
     nickname: Alekai,
     pronouns: "He" | "Him",
-    code: [CPP, LATEX, Java, MATLAB],
+    code: [CPP, Python, LATEX, Java, MATLAB],
     projects: {
         cpp: ["SQL Database System", "SFML Graphing Calculator"]
     },
