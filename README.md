@@ -14,7 +14,7 @@ const anthony = {
     projects: {
         cpp: ["SQL Database System", "SFML Graphing Calculator"]
     },
-    goalOfTheWeek: "Finish SQL Project README.md",
+    goalOfTheWeek: "Start making github.io site with passion project tab",
 
     hobbies: ["jazz trumpet", "jazz guitar", "film photography", "reading", "saving gotham"]
 };
