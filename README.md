@@ -10,13 +10,13 @@
 const anthony = {
     nickname: Alekai,
     pronouns: "He" | "Him",
-    code: [CPP, Python, LATEX, Java, MATLAB, HTML, CSS],
+    code: [CPP, Python, LATEX, Java, MATLAB, HTML, CSS, QGIS],
     projects: {
         cpp: ["SQL Database System", "SFML Graphing Calculator"]
     },
-    goalOfTheWeek: "Finish first 10 chapters of book",
+    goalOfTheWeek: "Update QGIS",
 
-    hobbies: ["jazz trumpet", "jazz guitar", "film photography", "reading", "saving gotham"]
+    hobbies: ["jazz trumpet", "jazz guitar", "film photography", "reading", "skating", "saving gotham"]
 };
 ```
 
