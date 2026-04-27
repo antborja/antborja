@@ -8,15 +8,16 @@
 
 ```javascript
 const anthony = {
-    nickname: Alekai,
+    nickname: Tonton,
     pronouns: "He" | "Him",
-    code: [CPP, Python, LATEX, Java, MATLAB, HTML, CSS, QGIS],
+    code: [C++, C, Python, LATEX, Java, MATLAB, HTML, CSS],
     projects: {
+        QGIS: "Digitizing Workflow for Venus Planetary Research"
         cpp: ["SQL Database System", "SFML Graphing Calculator"]
     },
     goalOfTheWeek: "Update QGIS",
 
-    hobbies: ["jazz trumpet", "jazz guitar", "film photography", "reading", "skating", "saving gotham"]
+    hobbies: ["wrestling", "jazz trumpet", "jazz guitar", "film photography", "reading", "crocheting", "saving nyc"]
 };
 ```
 
@@ -27,7 +28,6 @@ may have public repositories that will be linked within the project description.
 
 Contents
 ===========
-
 * [SQL Database Project (C++)](https://github.com/antborja#sql-database-project)
 * [SFML Graphing Calculator Project (C++)](https://github.com/antborja#sfml-graphing-calculator)
 
