@@ -1,3 +1,4 @@
+<!--
 <h1>
   <img src = "https://github.com/antborja/antborja/assets/112919376/4ff65cb8-ad76-4317-b0d5-d9dc2fc326bd" width = "40"> Kumusta (Hello), my name is Anthony Borja! <img src="https://github.com/antborja/antborja/assets/112919376/3ed4508b-cd26-4aac-92a3-5781814edc86" width="40">
 </h1>
@@ -33,7 +34,7 @@ Contents
 
 <!---
 SQL PROJECT
--->
+
 <h2>SQL Database Project</h2>
 <em>Written in C++ by Anthony Borja</em>
 <br>
@@ -170,5 +171,5 @@ or       Follows either left hand or right hand conditions
 
 <img src="https://github.com/antborja/antborja/assets/112919376/e526187d-04c2-4097-aafa-eed29ae03a04" width="700">
 
-
+-->
 
